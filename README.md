@@ -1,9 +1,9 @@
 Tech Stack 💻
 
-HTML5
-CSS3
-JAVASCRIPT
-No External Libraries has been used.
+HTML5,
+CSS3,
+JAVASCRIPT,
+(No External Libraries has been used).
 
 Features ✨
 
